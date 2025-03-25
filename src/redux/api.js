@@ -1,5 +1,6 @@
 import axios from 'axios'
-export const URL = "http://localhost:5000/api"
+// export const URL = "http://localhost:5000/api"
+export const URL = "https://backend-mernecommerce.onrender.com/api"
 // export const URL = "https://ill-lime-eagle.cyclic.app/"
 // export const URL = "boostrap/api"
 // export const URL = "https://railway-mern-production.up.railway.app/api"
